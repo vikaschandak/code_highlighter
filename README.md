@@ -1,1 +1,1 @@
-Pastebin Code Higlighter API using Django REST Framework
+Pastebin Code Highlighter API using Django REST Framework
